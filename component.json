@@ -1,0 +1,14 @@
+{
+  "name": "pickadate-theme-classic",
+  "version": "3.5.3",
+  "development": {
+    "kelonye/pickadate": "3.5.3"
+  },
+  "scripts": [
+  ],
+  "styles": [
+    "lib/classic.css",
+    "lib/classic.time.css",
+    "lib/classic.date.css"
+  ]
+}
